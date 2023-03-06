@@ -20,7 +20,7 @@ Around 4 hours
 
 I refreshed my knowledge of the key concepts of front-end Web Design and development such as elements, attributes, CSS, and JavaScript. 
 I also expanded my understanding on some of the key concepts of back-end development like NPM, this was mentioned in the number 1 linked video above, so I watched other videos on it.
-I Learnt that NPM, is a package manager for Node.js that is used to share packages and provides links to external libraries and databases.
+I learnt that NPM, is a package manager for Node.js that is used to share packages and provides links to external libraries and databases.
 
 ### Career/Employability/Learning Insights:
 
